@@ -176,3 +176,6 @@ Resolved manually:
   * https://dzone.com/articles/merging-vs-rebasing
 * Learn **Conventional Commits** - a specification for writing commit messages
   * https://www.conventionalcommits.org/en/v1.0.0-beta.2/
+
+# Merci 
+* Je trouve ça assez facile
